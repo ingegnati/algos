@@ -1,9 +1,26 @@
 # Algos
 Algorithms and Data Structures in Scala
 
-NOTE: This project is based on the GPL project [sentenza/hacktoberfest-scala-algorithms][hacktoberfest]
+**NOTE:** This project is based on the GPL project [sentenza/hacktoberfest-scala-algorithms][hacktoberfest]
 
-[https://github.com/sentenza/hacktoberfest-scala-algorithms]
+- Data Structures
+  - Iterable _Bag_
+  - Iterable FIFO Queue
+  - Iterable Pushdown (LIFO) Stack
+  - Undirected graphs (Graph)
+  - Directed graphs (Dgraph)  
+- Algorithms
+  - Searching
+    - Symbol tables
+    - Binary Search Trees
+    - Balanced Search Trees (red-black BSTs)
+    - Hash Tables
+  - Sorting
+    - Exchange Sorts (e.g. quicksort)
+    - Selection Sorts (e.g. heapsort)
+    - Insertion Sorts
+    - Merge Sorts
+    - Distribution Sorts (e.g. bucketsort)
 
 # License
 
@@ -22,3 +39,6 @@ GNU General Public License for more details.
 
 You should have received a copy of the [GNU General Public License][LICENSE]
 along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+[hacktoberfest]: https://github.com/sentenza/hacktoberfest-scala-algorithms
+
