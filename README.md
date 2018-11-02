@@ -21,6 +21,11 @@ Algorithms and Data Structures in Scala
     - Insertion Sorts
     - Merge Sorts
     - Distribution Sorts (e.g. bucketsort)
+    
+## Dependencies
+
+- [Ammonite](http://ammonite.io)
+  - You can launch an ammonite REPL within sbt using `test:console`
 
 # License
 
