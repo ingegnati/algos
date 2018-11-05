@@ -26,10 +26,24 @@ Algorithms and Data Structures in Scala
 
 - [Ammonite](http://ammonite.io)
   - You can launch an ammonite REPL within sbt using `test:console`
+  
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at
+<https://github.com/ingegnati/algos>. This project is intended to be a safe,
+welcoming space for collaboration, and contributors are expected to adhere to
+the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Feel free to take a look at [CONTRIBUTING](CONTRIBUTING.md).
+
+## Development
+
+To set up your environment in order to further develop this project
+clone this repository and then run `sbt`.
 
 # License
 
 Algos - A collection of algorithms in Scala
+
 Copyright (C) 2018  ingegnati.it
 
 This program is free software: you can redistribute it and/or modify
