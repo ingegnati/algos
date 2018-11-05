@@ -33,7 +33,7 @@ Bug reports and pull requests are welcome on GitHub at
 <https://github.com/ingegnati/algos>. This project is intended to be a safe,
 welcoming space for collaboration, and contributors are expected to adhere to
 the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-Feel free to take a look at [CONTRIBUTING](CONTRIBUTING.md).
+Feel free to take a look at our copy of the [Code of conduct](code-of-conduct.md).
 
 ## Development
 
