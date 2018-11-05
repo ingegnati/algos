@@ -17,7 +17,7 @@ software for all its users.
 Your code must look like that:
 
 ```scala
-package io.github.sentenza.hacktoberfest18
+package it.ingegnati.algos
 package mypackage
 
 import scala.util.{ Try, Success, Failure }
