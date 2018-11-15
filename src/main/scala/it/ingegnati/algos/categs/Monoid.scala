@@ -1,5 +1,8 @@
 package it.ingegnati.algos.categs
 
+/**
+  * The monoid is a category with one object
+  */
 trait Monoid[T] {
   /**
     * ASSOCIATIVE binary operation, op, that takes two values of type T and combines

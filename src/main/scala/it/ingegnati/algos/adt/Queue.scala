@@ -15,8 +15,8 @@ package it.ingegnati.algos.adt
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-/** Functional Queue
-  * Defines the generic type {{{ Queue[T] }}}
+/** Functional Queue ADT
+  * Defines the generic Algebraic data type {{{ Queue[T] }}}
   *
   * @see Programming in Scala (2nd edition) Ch. 19.7
   * Note that Queue is covariant in T
